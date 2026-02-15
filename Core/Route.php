@@ -63,7 +63,7 @@ class Route
 
 
     }
-    // this function use to return array  to routes becuse $routes is private
+   
     public static function routes()
     {
         

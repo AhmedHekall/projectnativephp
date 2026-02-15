@@ -20,7 +20,7 @@ class Show
     }
     private function authotize($id)
     {
-        authorize ($this->findNote($id)['user_id']== $_SESSION['user_id']['id ']);
+        authorize ($this->findNote($id)['user_id']== $_SESSION['user_id']['id']);
         return $this;
     }
 
