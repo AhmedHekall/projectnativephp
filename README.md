@@ -102,11 +102,11 @@ Incoming Request
 ---
 
 ## 📸 Code Architecture Screenshots
-![Structure screenshot](./screenshots/00-structureProject.png)
-![Router Screenshot](./screenshots/01-router.png)
-![Dispatcher Screenshot](./screenshots/02-dispatcher.png)
-![Container Screenshot](./screenshots/03-container.png)
-![CSRF Screenshot](./screenshots/04-csrf.png)
+![Structure screenshot](./screenshot/00-structureProject.png)
+![Router Screenshot](./screenshot/01-router.png)
+![Dispatcher Screenshot](./screenshot/02-dispatcher.png)
+![Container Screenshot](./screenshot/03-container.png)
+![CSRF Screenshot](./screenshot/04-csrf.png)
 
 ---
 
